@@ -4,13 +4,12 @@
     xmlns:local="using:CPP_App"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    xmlns:Custom="using:CppControls"
+    xmlns:cpp_ctrl="using:CppControls"
     x:Class="CPP_App.MainPage"
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <Custom:MyUserControl HorizontalAlignment="Left" Margin="863,404,0,0" VerticalAlignment="Top"/>
-        <Custom:GstVideoControl HorizontalAlignment="Left" Margin="173,598,0,0" VerticalAlignment="Top" Height="402" Width="605"/>
+        <cpp_ctrl:GstVideoControl HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" />
     </Grid>
 </Page>

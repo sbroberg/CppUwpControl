@@ -75,9 +75,6 @@
     <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstgl-1.0-0.dll">
       <Filter>GstDependencies</Filter>
     </None>
-    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstplayer-1.0-0.dll">
-      <Filter>GstDependencies</Filter>
-    </None>
     <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstreamer-1.0-0.dll">
       <Filter>GstDependencies</Filter>
     </None>
@@ -94,6 +91,138 @@
       <Filter>GstDependencies</Filter>
     </None>
     <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\orc-0.4-0.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstapp.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstaudio-1.0-0.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstaudiobuffersplit.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstaudioconvert.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstaudiorate.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstaudioresample.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstaudiotestsrc.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstautodetect.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstcodecparsers-1.0-0.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstcodecs-1.0-0.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstcontroller-1.0-0.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstcoreelements.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstd3d11.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstdtls.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstinterleave.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstmediafoundation.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstnet-1.0-0.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstnice.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstopengl.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstopenh264.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstopus.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstpbutils-1.0-0.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstplayback.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstproxy.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstrtp.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstrtp-1.0-0.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstrtpmanager.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstsctp.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstsctp-1.0-0.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstsrtp.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gsttag-1.0-0.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstvideoconvert.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstvideoparsersbad.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstvideorate.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstvideoscale.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstvideotestsrc.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstvpx.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstwasapi2.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstwebrtc.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\nice-10.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\openh264-6.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\opus-0.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\srtp2-1.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\z-1.dll">
       <Filter>GstDependencies</Filter>
     </None>
   </ItemGroup>

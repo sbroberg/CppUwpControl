@@ -254,6 +254,152 @@
     <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gmodule-2.0-0.dll">
       <DeploymentContent>true</DeploymentContent>
     </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gio-2.0-0.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstaudio-1.0-0.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstcodecparsers-1.0-0.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstcodecs-1.0-0.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstcontroller-1.0-0.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstgl-1.0-0.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstnet-1.0-0.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstpbutils-1.0-0.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstrtp-1.0-0.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstsctp-1.0-0.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gsttag-1.0-0.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstwebrtc-1.0-0.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\nice-10.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\openh264-6.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\opus-0.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\srtp2-1.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\z-1.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstsdp-1.0-0.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstapp.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstaudiobuffersplit.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstaudioconvert.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstaudiorate.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstaudioresample.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstaudiotestsrc.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstautodetect.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstcoreelements.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstd3d11.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstdtls.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstinterleave.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstmediafoundation.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstnice.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstopengl.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstopenh264.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstopus.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstplayback.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstproxy.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstrtp.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstrtpmanager.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstsctp.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstsrtp.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstvideoconvert.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstvideoparsersbad.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstvideorate.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstvideoscale.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstvideotestsrc.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstvpx.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstwasapi2.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstwebrtc.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
