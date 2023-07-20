@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>c76b3011-aa5a-473d-9beb-fe447a30c99b</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tga;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="GstVideoControl">
+      <UniqueIdentifier>{30e0b786-0586-40f5-9743-8af4f1ec9f01}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="GstWrapper.cpp">
+      <Filter>GstVideoControl</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="GstWrapper.h">
+      <Filter>GstVideoControl</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>GstVideoControl</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="MyUserControl.xaml" />
+    <Page Include="GstVideoControl.xaml">
+      <Filter>GstVideoControl</Filter>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="artifact.png">
+      <Filter>Resources</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
