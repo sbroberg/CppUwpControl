@@ -133,6 +133,238 @@
     </AppxManifest>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstvideo-1.0-0.dll">
+      <Link>gstvideo-1.0-0.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstreamer-1.0-0.dll">
+      <Link>gstreamer-1.0-0.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstbase-1.0-0.dll">
+      <Link>gstbase-1.0-0.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstapp-1.0-0.dll">
+      <Link>gstapp-1.0-0.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\glib-2.0-0.dll">
+      <Link>glib-2.0-0.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gobject-2.0-0.dll">
+      <Link>gobject-2.0-0.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\orc-0.4-0.dll">
+      <Link>orc-0.4-0.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\ffi-7.dll">
+      <Link>ffi-7.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\intl-8.dll">
+      <Link>intl-8.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gmodule-2.0-0.dll">
+      <Link>gmodule-2.0-0.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gio-2.0-0.dll">
+      <Link>gio-2.0-0.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstaudio-1.0-0.dll">
+      <Link>gstaudio-1.0-0.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstcodecparsers-1.0-0.dll">
+      <Link>gstcodecparsers-1.0-0.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstcodecs-1.0-0.dll">
+      <Link>gstcodecs-1.0-0.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstcontroller-1.0-0.dll">
+      <Link>gstcontroller-1.0-0.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstgl-1.0-0.dll">
+      <Link>gstgl-1.0-0.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstnet-1.0-0.dll">
+      <Link>gstnet-1.0-0.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstpbutils-1.0-0.dll">
+      <Link>gstpbutils-1.0-0.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstrtp-1.0-0.dll">
+      <Link>gstrtp-1.0-0.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstsctp-1.0-0.dll">
+      <Link>gstsctp-1.0-0.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gsttag-1.0-0.dll">
+      <Link>gsttag-1.0-0.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstwebrtc-1.0-0.dll">
+      <Link>gstwebrtc-1.0-0.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\nice-10.dll">
+      <Link>nice-10.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\openh264-6.dll">
+      <Link>openh264-6.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\opus-0.dll">
+      <Link>opus-0.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\srtp2-1.dll">
+      <Link>srtp2-1.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\z-1.dll">
+      <Link>z-1.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstsdp-1.0-0.dll">
+      <Link>gstsdp-1.0-0.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstapp.dll">
+      <Link>gstapp.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstaudiobuffersplit.dll">
+      <Link>gstaudiobuffersplit.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstaudioconvert.dll">
+      <Link>gstaudioconvert.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstaudiorate.dll">
+      <Link>gstaudiorate.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstaudioresample.dll">
+      <Link>gstaudioresample.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstaudiotestsrc.dll">
+      <Link>gstaudiotestsrc.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstautodetect.dll">
+      <Link>gstautodetect.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstcoreelements.dll">
+      <Link>gstcoreelements.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstd3d11.dll">
+      <Link>gstd3d11.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstdtls.dll">
+      <Link>gstdtls.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstinterleave.dll">
+      <Link>gstinterleave.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstmediafoundation.dll">
+      <Link>gstmediafoundation.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstnice.dll">
+      <Link>gstnice.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstopengl.dll">
+      <Link>gstopengl.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstopenh264.dll">
+      <Link>gstopenh264.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstopus.dll">
+      <Link>gstopus.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstplayback.dll">
+      <Link>gstplayback.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstproxy.dll">
+      <Link>gstproxy.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstrtp.dll">
+      <Link>gstrtp.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstrtpmanager.dll">
+      <Link>gstrtpmanager.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstsctp.dll">
+      <Link>gstsctp.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstsrtp.dll">
+      <Link>gstsrtp.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstvideoconvert.dll">
+      <Link>gstvideoconvert.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstvideoparsersbad.dll">
+      <Link>gstvideoparsersbad.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstvideorate.dll">
+      <Link>gstvideorate.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstvideoscale.dll">
+      <Link>gstvideoscale.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstvideotestsrc.dll">
+      <Link>gstvideotestsrc.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstvpx.dll">
+      <Link>gstvpx.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstwasapi2.dll">
+      <Link>gstwasapi2.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\gstreamer_uwp_x64_libs\x86_64\lib\gstreamer-1.0\gstwebrtc.dll">
+      <Link>gstwebrtc.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="artifacts.png" />
     <Content Include="Properties\Default.rd.xml" />
   </ItemGroup>
@@ -159,14 +391,6 @@
     <ProjectReference Include="..\CppControls\CppControls.vcxproj">
       <Project>{9a597317-471b-4480-9ac5-3d9c4dc7315a}</Project>
       <Name>CppControls</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\CSharpControl\CSharpControl.csproj">
-      <Project>{444f0afc-a69a-4cba-b0bf-a9c2a94f4345}</Project>
-      <Name>CSharpControl</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\GoodCpp\GoodCpp.vcxproj">
-      <Project>{DF668DEA-4B73-4D84-971B-5CC443AF0B9E}</Project>
-      <Name>GoodCpp</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">

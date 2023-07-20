@@ -4,19 +4,12 @@
     xmlns:local="using:CppUwpControl"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    xmlns:cs_ctrl="using:CSharpControl"
     xmlns:cpp_ctrl="using:CppControls"
     x:Class="CppUwpControl.MainPage"
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="0*"/>
-            <ColumnDefinition/>
-        </Grid.ColumnDefinitions>
-        <local:LocalImage HorizontalAlignment="Left" Margin="431,82,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
-        <cs_ctrl:RemoteCSharpImage HorizontalAlignment="Left" Margin="402,564,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
-        <cpp_ctrl:MyUserControl Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="87,134,0,0" VerticalAlignment="Top" Height="246" Width="259"/>
+        <cpp_ctrl:GstVideoControl HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" />
     </Grid>
 </Page>
