@@ -164,6 +164,10 @@
       <Project>{444f0afc-a69a-4cba-b0bf-a9c2a94f4345}</Project>
       <Name>CSharpControl</Name>
     </ProjectReference>
+    <ProjectReference Include="..\GoodCpp\GoodCpp.vcxproj">
+      <Project>{DF668DEA-4B73-4D84-971B-5CC443AF0B9E}</Project>
+      <Name>GoodCpp</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>

@@ -1,0 +1,9 @@
+*~
+.vs
+bin
+x64
+x86
+obj
+Debug
+Release
+Generated Files

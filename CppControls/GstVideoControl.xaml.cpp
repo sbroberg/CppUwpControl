@@ -52,7 +52,7 @@ bool GstVideoControl::startPipeline()
     if (overlay) {
         gst_video_overlay_set_window_handle(
             GST_VIDEO_OVERLAY(overlay),
-            (guintptr) reinterpret_cast<IUnknown*>(GstVideoControl_VideoPanel));
+            (guintptr) reinterpret_cast<IUnknown*>(VideoPanel));
         gst_object_unref(overlay);
     }
 
@@ -66,7 +66,7 @@ bool GstVideoControl::startPipeline()
         return false;
     }
 
-    GstVideoControl_VideoPanel->Visibility = Windows::UI::Xaml::Visibility::Visible;
+    VideoPanel->Visibility = Windows::UI::Xaml::Visibility::Visible;
 
     isPlaying_ = true;
 
