@@ -8,6 +8,9 @@
     <Filter Include="GstVideoControl">
       <UniqueIdentifier>{30e0b786-0586-40f5-9743-8af4f1ec9f01}</UniqueIdentifier>
     </Filter>
+    <Filter Include="GstDependencies">
+      <UniqueIdentifier>{012277b4-412c-4591-b14b-3ebc5a7e84ac}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp" />
@@ -34,5 +37,52 @@
     <Image Include="artifact.png">
       <Filter>Resources</Filter>
     </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\ffi-7.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gio-2.0-0.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\glib-2.0-0.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gmodule-2.0-0.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gobject-2.0-0.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstapp-1.0-0.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstbase-1.0-0.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstgl-1.0-0.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstplayer-1.0-0.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstreamer-1.0-0.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstsdp-1.0-0.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstvideo-1.0-0.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstwebrtc-1.0-0.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\intl-8.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\orc-0.4-0.dll">
+      <Filter>GstDependencies</Filter>
+    </None>
   </ItemGroup>
 </Project>

@@ -10,8 +10,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-
-        <Custom:MyUserControl HorizontalAlignment="Left" Margin="650,366,0,0" VerticalAlignment="Top"/>
-
+        <Custom:MyUserControl HorizontalAlignment="Left" Margin="863,404,0,0" VerticalAlignment="Top"/>
+        <Custom:GstVideoControl HorizontalAlignment="Left" Margin="173,598,0,0" VerticalAlignment="Top" Height="402" Width="605"/>
     </Grid>
 </Page>

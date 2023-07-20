@@ -224,49 +224,34 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\ffi-7.dll">
-      <DeploymentContent>true</DeploymentContent>
-    </None>
-    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gio-2.0-0.dll">
-      <DeploymentContent>true</DeploymentContent>
-    </None>
-    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\glib-2.0-0.dll">
-      <DeploymentContent>true</DeploymentContent>
-    </None>
-    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gmodule-2.0-0.dll">
-      <DeploymentContent>true</DeploymentContent>
-    </None>
-    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gobject-2.0-0.dll">
-      <DeploymentContent>true</DeploymentContent>
-    </None>
-    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstapp-1.0-0.dll">
-      <DeploymentContent>true</DeploymentContent>
-    </None>
-    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstbase-1.0-0.dll">
-      <DeploymentContent>true</DeploymentContent>
-    </None>
-    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstgl-1.0-0.dll">
-      <DeploymentContent>true</DeploymentContent>
-    </None>
-    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstplayer-1.0-0.dll">
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstvideo-1.0-0.dll">
       <DeploymentContent>true</DeploymentContent>
     </None>
     <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstreamer-1.0-0.dll">
       <DeploymentContent>true</DeploymentContent>
     </None>
-    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstsdp-1.0-0.dll">
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstbase-1.0-0.dll">
       <DeploymentContent>true</DeploymentContent>
     </None>
-    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstvideo-1.0-0.dll">
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstapp-1.0-0.dll">
       <DeploymentContent>true</DeploymentContent>
     </None>
-    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gstwebrtc-1.0-0.dll">
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\glib-2.0-0.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gobject-2.0-0.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\orc-0.4-0.dll">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\ffi-7.dll">
       <DeploymentContent>true</DeploymentContent>
     </None>
     <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\intl-8.dll">
       <DeploymentContent>true</DeploymentContent>
     </None>
-    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\orc-0.4-0.dll">
+    <None Include="..\..\gstreamer_uwp_x64_libs\x86_64\bin\gmodule-2.0-0.dll">
       <DeploymentContent>true</DeploymentContent>
     </None>
   </ItemGroup>
